@@ -89,7 +89,7 @@ class EmployeeRow extends React.Component {
     }
 }
 
-export default class EmployeeList extends React.Component {
+export default class EmployeeRows extends React.Component {
     constructor() {
         super()
         this.state = { employees: [] }
